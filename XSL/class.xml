@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+
+<!DOCTYPE class SYSTEM "class.dtd">
+
+<class>
+    <student>
+<firstName>Hassan</firstName>
+<lastName>Ahmed</lastName>
+<contact>03001111111</contact>
+    </student>
+    <student>
+<firstName>Umer</firstName>
+<lastName>Junaid</lastName>
+<contact>0300222222</contact>
+    </student>
+    <student>
+<firstName>Aamna</firstName>
+<lastName>Abid</lastName>
+<contact>03003333333</contact>
+    </student>
+    <student>
+        <firstName>Aamna</firstName>
+        <lastName>Abid</lastName>
+        <contact>03003333333</contact>
+            </student>
+            <student>
+                <firstName>Aamna</firstName>
+                <lastName>Abid</lastName>
+                <contact>03003333333</contact>
+                    </student>
+                    <student>
+                        <firstName>Aamna</firstName>
+                        <lastName>Abid</lastName>
+                        <contact>03003333333</contact>
+                            </student>
+                            <student>
+                                <firstName>Muhammad</firstName>
+                                <lastName>Asim</lastName>
+                                <contact>03003333333</contact>
+                                    </student>
+                        </class>

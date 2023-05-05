@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl" ?>
+<!DOCTYPE class SYSTEM "style.dtd">
+<class>
+
+<student>
+<firstName>
+Graham
+</firstName>
+<lastName>
+Bell
+</lastName>
+<nickName>
+Garry
+</nickName>
+</student>
+<student>
+    <firstName>
+    Sameer
+    </firstName>
+    <lastName>
+    Faisal
+    </lastName>
+    <nickName>
+    Sam
+    </nickName>
+    </student>
+</class>
